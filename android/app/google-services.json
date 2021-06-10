@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "179900541698",
+    "project_id": "magos-app",
+    "storage_bucket": "magos-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179900541698:android:f4b77d5638a4c5262cf01b",
+        "android_client_info": {
+          "package_name": "com.david.magos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179900541698-mn4fdvk9v0c2fgk6htgovcr3k6md794b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.david.magos",
+            "certificate_hash": "066ad16993294e6f5e156981bb2320966d9f0bfd"
+          }
+        },
+        {
+          "client_id": "179900541698-b93ko6h83oof8jgl3isk0bpfjl1k3lmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAAO7NKjENPtAKRr1RqoBWte9EKo29Ekg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179900541698-b93ko6h83oof8jgl3isk0bpfjl1k3lmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
